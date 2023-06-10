@@ -1,2 +1,2 @@
 # Hello-World
-Just learning how to program
+Just learning how to github
